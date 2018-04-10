@@ -7,3 +7,7 @@ Launch any URL in Chrome Kiosk (App) mode from the command line.
 
 **Basic usage:**<br>
 `app https://www.google.com/`
+
+**Appify:**<br>
+Use [Appify](https://gist.github.com/mathiasbynens/674099) to create a .app file that you can keep in your Dock.
+
